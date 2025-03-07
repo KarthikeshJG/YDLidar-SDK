@@ -22,7 +22,7 @@ sudo make install
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-REPO/YDLidar-SDK.git
+   git clone https://github.com/KarthikeshJG/YDLidar-SDK.git
    cd YDLidar-SDK
    ```
 2. Build the SDK:
